@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web solut
 ---
 
 ## 💬 Let’s Connect!  
-- 📺 YouTube: [Quiet Coder](https://youtube.com/@Quiet-Coder)  
-- 📷 Instagram: [@YourInstaHandle](https://instagram.com/quietcoder) – Feel free to DM me! 
+- 📺 YouTube: [@Quiet-Coder](https://youtube.com/@Quiet-Coder)  
+- 📷 Instagram: [@quietcoder](https://instagram.com/quietcoder) – Feel free to DM me! 
 
 ---
 
